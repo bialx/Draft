@@ -33,18 +33,17 @@ class Team:
         self.liste_ban = []
 
 
-    def winrate(self, teamA, teamB, carte):
+    def winrate(self, t1 , t2, teamA, teamB, carte):
         """ Méthode permettant de mettre a jour les winrate de chaque classe apres des drafts """
 
-        team1, team2 = teamA[0], teamB[0]
-        pickA, banA, winA = teamA[1], teamA[2], teamA[3]   #win = 1 si win 0 sinon
-        pickB, banB, winB = teamB[1], teamB[2], teamB[3]
-        listApick, listBpick = team1.liste_pick, team2.liste_pick #on recupere la liste des picks joues par la teamA et B avant la mise a jour de la draft
-        listewinA = team1.liste_win, listewinB = team2.liste_win ##on recupere la liste des [picks,[nbr win, nbr pick]] pour un pick donné joues par la teamA et B avant la mise a jour de la draft
+        pickA, banA, winA = teamA[0], teamA[1], teamA[2]   #win = 1 si win 0 sinon
+        pickB, banB, winB = teamB[0], teamB[1], teamB[2]
+        listApick, listBpick = t1.liste_pick, t2.liste_pick #on recupere la liste des picks joues par la teamA et B avant la mise a jour de la draft
+        listewinA, listewinB = t1.liste_win, t2.liste_win ##on recupere la liste des [picks,[nbr win, nbr pick]] pour un pick donné joues par la teamA et B avant la mise a jour de la draft
         #gere les erreurs
         if len(pickA) > 3 or len(banA) > 3:
             return "error draft, trop de pick ou ban pour la team A"
-        elif len(pickB) > 3 or len(BanB) > 3:
+        elif len(pickB) > 3 or len(banB) > 3:
             return "error draft, trop de pick ou ban pour la team B"
         elif carte != type(int) and carte > 25:
             return "mauvais numero de map"
@@ -82,18 +81,16 @@ class Team:
 
 
 
-            #On remet bien a jour toutes les listes
-        team1.liste_pick = listApick
-        team2.liste_pick = listBpick
-        team1.liste_win = listewinA
-        team2.liste_win = listewinB
+            #On remet bien a jour toutes les listesr
+        t1.liste_pick = listApick
+        t2.liste_pick = listBpick
+        t1.liste_win = listewinA
+        t2.liste_win = listewinB
 
 
-
-["ov",["osa","zobal","sadi"],["panda","xel","feca"],1]
 ov = Team()
 ov.list_pick = [""]
 go = Team()
 go.list_pick = [""]
-ov.winrate(["ov",["osa","zobal","sadi"],["panda","xel","feca"],1],["go",["elio","cra","enu"],["iop","sram","eca"],0], 18)
+ov.winrate(ov, go, [["osa","zobal","sadi"],["panda","xel","feca"],1],[["elio","cra","enu"],["iop","sram","eca"],0], 18)
 print(ov.list_pick, go.list_pick)
