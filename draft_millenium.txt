@@ -1,0 +1,69 @@
+Draft : bg vs millenium sur map 12-> win bg 
+
+ bg ban osa 
+ millenium ban sacri 
+ 
+ bg pick xel 
+ millenium pick eni 
+
+ millenium ban panda 
+ bg ban zobal 
+ millenium ban ougi 
+ bg ban enu 
+ 
+ bg pick sadi 
+ bg pick feca 
+
+ bg ban eca 
+ millenium ban roub 
+ 
+ bg pick xel 
+ millenium pick eni 
+
+
+Draft : millenium vs ov sur map 12-> win millenium 
+
+ millenium ban eni 
+ ov ban steam 
+ 
+ millenium pick osa 
+ ov pick sacri 
+
+ ov ban zobal 
+ millenium ban enu 
+ ov ban eca 
+ millenium ban panda 
+ 
+ millenium pick feca 
+ millenium pick xel 
+
+ millenium ban iop 
+ ov ban sadi 
+ 
+ millenium pick osa 
+ ov pick sacri 
+
+
+Draft : ooc vs millenium sur map 12-> win ooc 
+
+ ooc ban osa 
+ millenium ban sadi 
+ 
+ ooc pick eni 
+ millenium pick sacri 
+
+ millenium ban zobal 
+ ooc ban panda 
+ millenium ban xel 
+ ooc ban feca 
+ 
+ ooc pick ougi 
+ ooc pick iop 
+
+ ooc ban steam 
+ millenium ban enu 
+ 
+ ooc pick eni 
+ millenium pick sacri 
+
+

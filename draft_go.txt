@@ -1,0 +1,46 @@
+Draft : go vs bg sur map 12-> win go 
+
+ go ban eni 
+ bg ban feca 
+ 
+ go pick osa 
+ bg pick sacri 
+
+ bg ban xel 
+ go ban zobal 
+ bg ban enu 
+ go ban iop 
+ 
+ go pick steam 
+ go pick sadi 
+
+ go ban eca 
+ bg ban ougi 
+ 
+ go pick osa 
+ bg pick sacri 
+
+
+Draft : ov vs go sur map 12-> win ov 
+
+ ov ban osa 
+ go ban feca 
+ 
+ ov pick sacri 
+ go pick xel 
+
+ go ban eni 
+ ov ban panda 
+ go ban sadi 
+ ov ban zobal 
+ 
+ ov pick iop 
+ ov pick cra 
+
+ ov ban eca 
+ go ban steam 
+ 
+ ov pick sacri 
+ go pick xel 
+
+

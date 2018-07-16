@@ -1,0 +1,69 @@
+Draft : bg vs orks -> win orks 
+
+ bg ban iop 
+ orks ban xel 
+ 
+ bg pick eni 
+ orks pick osa 
+
+ orks ban zobal 
+ bg ban panda 
+ orks ban sacri 
+ bg ban feca 
+ 
+ bg pick ougi 
+ bg pick sadi 
+
+ bg ban enu 
+ orks ban eca 
+ 
+ bg pick eni 
+ orks pick osa 
+
+
+Draft : exodia vs orks sur map 12-> win exodia 
+
+ exodia ban sacri 
+ orks ban xel 
+ 
+ exodia pick eni 
+ orks pick osa 
+
+ orks ban zobal 
+ exodia ban panda 
+ orks ban eca 
+ exodia ban feca 
+ 
+ exodia pick enu 
+ exodia pick iop 
+
+ exodia ban steam 
+ orks ban ougi 
+ 
+ exodia pick eni 
+ orks pick osa 
+
+
+Draft : orks vs ov -> win ov 
+
+ orks ban xel 
+ ov ban feca 
+ 
+ orks pick osa 
+ ov pick eni 
+
+ ov ban panda 
+ orks ban enu 
+ ov ban sacri 
+ orks ban steam 
+ 
+ orks pick sadi 
+ orks pick iop 
+
+ orks ban roub 
+ ov ban eca 
+ 
+ orks pick osa 
+ ov pick eni 
+
+

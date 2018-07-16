@@ -1,0 +1,46 @@
+Draft : free_bowisse vs ooc -> win ooc 
+
+ free_bowisse ban sacri 
+ ooc ban feca 
+ 
+ free_bowisse pick eni 
+ ooc pick osa 
+
+ ooc ban zobal 
+ free_bowisse ban xel 
+ ooc ban eca 
+ free_bowisse ban iop 
+ 
+ free_bowisse pick panda 
+ free_bowisse pick ougi 
+
+ free_bowisse ban enu 
+ ooc ban roub 
+ 
+ free_bowisse pick eni 
+ ooc pick osa 
+
+
+Draft : ooc vs millenium sur map 12-> win ooc 
+
+ ooc ban osa 
+ millenium ban sadi 
+ 
+ ooc pick eni 
+ millenium pick sacri 
+
+ millenium ban zobal 
+ ooc ban panda 
+ millenium ban xel 
+ ooc ban feca 
+ 
+ ooc pick ougi 
+ ooc pick iop 
+
+ ooc ban steam 
+ millenium ban enu 
+ 
+ ooc pick eni 
+ millenium pick sacri 
+
+

@@ -1,0 +1,115 @@
+Draft : bg vs millenium sur map 12-> win bg 
+
+ bg ban osa 
+ millenium ban sacri 
+ 
+ bg pick xel 
+ millenium pick eni 
+
+ millenium ban panda 
+ bg ban zobal 
+ millenium ban ougi 
+ bg ban enu 
+ 
+ bg pick sadi 
+ bg pick feca 
+
+ bg ban eca 
+ millenium ban roub 
+ 
+ bg pick xel 
+ millenium pick eni 
+
+
+Draft : go vs bg sur map 12-> win go 
+
+ go ban eni 
+ bg ban feca 
+ 
+ go pick osa 
+ bg pick sacri 
+
+ bg ban xel 
+ go ban zobal 
+ bg ban enu 
+ go ban iop 
+ 
+ go pick steam 
+ go pick sadi 
+
+ go ban eca 
+ bg ban ougi 
+ 
+ go pick osa 
+ bg pick sacri 
+
+
+Draft : bg vs free_bowisse -> win free_bowisse 
+
+ bg ban xel 
+ free_bowisse ban osa 
+ 
+ bg pick sacri 
+ free_bowisse pick eni 
+
+ free_bowisse ban panda 
+ bg ban zobal 
+ free_bowisse ban steam 
+ bg ban enu 
+ 
+ bg pick iop 
+ bg pick sadi 
+
+ bg ban feca 
+ free_bowisse ban roub 
+ 
+ bg pick sacri 
+ free_bowisse pick eni 
+
+
+Draft : bg vs orks -> win orks 
+
+ bg ban iop 
+ orks ban xel 
+ 
+ bg pick eni 
+ orks pick osa 
+
+ orks ban zobal 
+ bg ban panda 
+ orks ban sacri 
+ bg ban feca 
+ 
+ bg pick ougi 
+ bg pick sadi 
+
+ bg ban enu 
+ orks ban eca 
+ 
+ bg pick eni 
+ orks pick osa 
+
+
+Draft : bg vs exodia sur map 12-> win bg 
+
+ bg ban feca 
+ exodia ban xel 
+ 
+ bg pick sacri 
+ exodia pick eni 
+
+ exodia ban panda 
+ bg ban osa 
+ exodia ban iop 
+ bg ban enu 
+ 
+ bg pick ougi 
+ bg pick hupper 
+
+ bg ban steam 
+ exodia ban zobal 
+ 
+ bg pick sacri 
+ exodia pick eni 
+
+

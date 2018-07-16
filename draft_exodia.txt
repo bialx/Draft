@@ -1,0 +1,69 @@
+Draft : bg vs exodia sur map 12-> win bg 
+
+ bg ban feca 
+ exodia ban xel 
+ 
+ bg pick sacri 
+ exodia pick eni 
+
+ exodia ban panda 
+ bg ban osa 
+ exodia ban iop 
+ bg ban enu 
+ 
+ bg pick ougi 
+ bg pick hupper 
+
+ bg ban steam 
+ exodia ban zobal 
+ 
+ bg pick sacri 
+ exodia pick eni 
+
+
+Draft : exodia vs orks sur map 12-> win exodia 
+
+ exodia ban sacri 
+ orks ban xel 
+ 
+ exodia pick eni 
+ orks pick osa 
+
+ orks ban zobal 
+ exodia ban panda 
+ orks ban eca 
+ exodia ban feca 
+ 
+ exodia pick enu 
+ exodia pick iop 
+
+ exodia ban steam 
+ orks ban ougi 
+ 
+ exodia pick eni 
+ orks pick osa 
+
+
+Draft : free_bowisse vs exodia -> win exodia 
+
+ free_bowisse ban sacri 
+ exodia ban feca 
+ 
+ free_bowisse pick xel 
+ exodia pick eni 
+
+ exodia ban panda 
+ free_bowisse ban sadi 
+ exodia ban osa 
+ free_bowisse ban steam 
+ 
+ free_bowisse pick zob 
+ free_bowisse pick iop 
+
+ free_bowisse ban iop 
+ exodia ban eca 
+ 
+ free_bowisse pick xel 
+ exodia pick eni 
+
+

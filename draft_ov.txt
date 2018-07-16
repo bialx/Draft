@@ -1,0 +1,69 @@
+Draft : ov vs go sur map 12-> win ov 
+
+ ov ban osa 
+ go ban feca 
+ 
+ ov pick sacri 
+ go pick xel 
+
+ go ban eni 
+ ov ban panda 
+ go ban sadi 
+ ov ban zobal 
+ 
+ ov pick iop 
+ ov pick cra 
+
+ ov ban eca 
+ go ban steam 
+ 
+ ov pick sacri 
+ go pick xel 
+
+
+Draft : millenium vs ov sur map 12-> win millenium 
+
+ millenium ban eni 
+ ov ban steam 
+ 
+ millenium pick osa 
+ ov pick sacri 
+
+ ov ban zobal 
+ millenium ban enu 
+ ov ban eca 
+ millenium ban panda 
+ 
+ millenium pick feca 
+ millenium pick xel 
+
+ millenium ban iop 
+ ov ban sadi 
+ 
+ millenium pick osa 
+ ov pick sacri 
+
+
+Draft : orks vs ov -> win ov 
+
+ orks ban xel 
+ ov ban feca 
+ 
+ orks pick osa 
+ ov pick eni 
+
+ ov ban panda 
+ orks ban enu 
+ ov ban sacri 
+ orks ban steam 
+ 
+ orks pick sadi 
+ orks pick iop 
+
+ orks ban roub 
+ ov ban eca 
+ 
+ orks pick osa 
+ ov pick eni 
+
+

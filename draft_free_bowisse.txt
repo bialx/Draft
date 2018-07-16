@@ -1,0 +1,69 @@
+Draft : bg vs free_bowisse -> win free_bowisse 
+
+ bg ban xel 
+ free_bowisse ban osa 
+ 
+ bg pick sacri 
+ free_bowisse pick eni 
+
+ free_bowisse ban panda 
+ bg ban zobal 
+ free_bowisse ban steam 
+ bg ban enu 
+ 
+ bg pick iop 
+ bg pick sadi 
+
+ bg ban feca 
+ free_bowisse ban roub 
+ 
+ bg pick sacri 
+ free_bowisse pick eni 
+
+
+Draft : free_bowisse vs ooc -> win ooc 
+
+ free_bowisse ban sacri 
+ ooc ban feca 
+ 
+ free_bowisse pick eni 
+ ooc pick osa 
+
+ ooc ban zobal 
+ free_bowisse ban xel 
+ ooc ban eca 
+ free_bowisse ban iop 
+ 
+ free_bowisse pick panda 
+ free_bowisse pick ougi 
+
+ free_bowisse ban enu 
+ ooc ban roub 
+ 
+ free_bowisse pick eni 
+ ooc pick osa 
+
+
+Draft : free_bowisse vs exodia -> win exodia 
+
+ free_bowisse ban sacri 
+ exodia ban feca 
+ 
+ free_bowisse pick xel 
+ exodia pick eni 
+
+ exodia ban panda 
+ free_bowisse ban sadi 
+ exodia ban osa 
+ free_bowisse ban steam 
+ 
+ free_bowisse pick zob 
+ free_bowisse pick iop 
+
+ free_bowisse ban iop 
+ exodia ban eca 
+ 
+ free_bowisse pick xel 
+ exodia pick eni 
+
+
